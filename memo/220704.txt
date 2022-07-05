@@ -1,5 +1,3 @@
-문성훈 강사님
-
 Javascript 와 ECMAScript 는 엄밀히 말하면 같은 것이 아님
 	Javascript = ECMAScript + client side web API
 	서버쪽 side일 경우에	host API
